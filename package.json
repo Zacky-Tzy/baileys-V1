@@ -1,7 +1,7 @@
 {
-    "name": "@GupongXyz/Baileys",
+    "name": "@Zacky-Tzy/baileys-V1",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By GupongOfficial",
+    "description": "WhatsApp API Modification By Zacky-Tzy",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/GupongXyz/Baileys",
+    "homepage": "https://github.com/Zacky-Tzy/baileys-V1",
     "repository": {
-        "url": "https://github.com/GupongXyz/Baileys"
+        "url": "https://github.com/Zacky-Tzy/baileys-V1"
     },
     "license": "MIT",
-    "author": "GupongOfficial",
+    "author": "ZackyOffC",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
